@@ -2,24 +2,76 @@
 ---
 # 캐글 컬럼 정보
 - 각자 하시다가 정보가 없는 컬럼에 대해 알게되면 업데이트 해주세요~
-|PA|AB|RBI|PA|H2|H3|HR|SB|CS|BB|IB|KK|PA|GD|TB_SC|RUN|OBP|OOO|win
-|------|---|---|
-|타석|타수|득점|2타|3타|홈런|루타 타점 도루|도실|볼넷|고4|삼진|병살|T : AWAY, B : BASE|Score|On-Base Rate|Batting Average|0 : Loss, 1 : Win, 0.5 : Draw
-# 팀 명
-|HH|HT|KT|LG|LT|NC|OB|SK|SS|WO|NE|
-|------|---|---|
-|한화|기아|KT|LG|롯데|NC|두산|SK|삼성|키움|넥센|
-| 제목 | 내용 | 설명|
-|------ | --- | ---|
-|테스트1 | 테스트2 | 테스트3|
 <table>
   <tbody>
     <tr>
-      <td align="center">test</td>
-      <td align="center">test2</td>
+      <td align="center">PA</td>
+      <td align="center">AB</td>
+      <td align="center">RBI</td>
+      <td align="center">H2</td>
+      <td align="center">H3</td>
+      <td align="center">HR</td>
+      <td align="center">SB</td>
+      <td align="center">CS</td>
+      <td align="center">BB</td>
+      <td align="center">IB</td>
+      <td align="center">KK</td>
+      <td align="center">GD</td>
+      <td align="center">TB_SC</td>
+      <td align="center">RUN</td>
+      <td align="center">OBP</td>
+      <td align="center">OOO</td>
+      <td align="center">win</td>
      <tr/>
-      <td align="center">test3</td>
-      <td align="center">test4</td>
+      <td align="center">타석</td>
+      <td align="center">타수</td>
+      <td align="center">득점</td>
+      <td align="center">2타</td>
+      <td align="center">3타</td>
+      <td align="center">홈런</td>
+      <td align="center">루타 타점 도루</td>
+      <td align="center">도실</td>
+      <td align="center">볼넷</td>
+      <td align="center">고4</td>
+      <td align="center">삼진</td>
+      <td align="center">병살</td>
+      <td align="center">T : AWAY, B : BASE</td>
+      <td align="center">Score</td>
+      <td align="center">On-Base Rate</td>
+      <td align="center">Batting Average</td>
+      <td align="center">0 : Loss, 1 : Win, 0.5 : Draw</td>
     </tr>
   </tbody>
 </table>
+# 팀 명
+<table>
+  <tbody>
+    <tr>
+      <td align="center">HH</td>
+      <td align="center">HT</td>
+      <td align="center">KT</td>
+      <td align="center">LG</td>
+      <td align="center">LT</td>
+      <td align="center">NC</td>
+      <td align="center">OB</td>
+      <td align="center">SK</td>
+      <td align="center">SS</td>
+      <td align="center">WO</td>
+      <td align="center">NE</td>
+     <tr/>
+      <td align="center">한화</td>
+      <td align="center">기아</td>
+      <td align="center">KT</td>
+      <td align="center">LG</td>
+      <td align="center">롯데</td>
+      <td align="center">NC</td>
+      <td align="center">두산</td>
+      <td align="center">SK</td>
+      <td align="center">삼성</td>
+      <td align="center">키움</td>
+      <td align="center">넥센</td>
+    </tr>
+  </tbody>
+</table>
+
+
