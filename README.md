@@ -12,3 +12,14 @@
 | 제목 | 내용 | 설명|
 |------ | --- | ---|
 |테스트1 | 테스트2 | 테스트3|
+<table>
+  <tbody>
+    <tr>
+      <td align="center">test</td>
+      <td align="center">test2</td>
+     <tr/>
+      <td align="center">test3</td>
+      <td align="center">test4</td>
+    </tr>
+  </tbody>
+</table>
