@@ -1,5 +1,6 @@
 # WFT mini project
----
+---![크기변환 홈페이지 로고](https://user-images.githubusercontent.com/129164497/228782096-bb6891f5-d34a-413f-aaef-8eca47f41310.png)
+
 ## 캐글 컬럼 정보
 - 각자 하시다가 정보가 없는 컬럼에 대해 알게되면 업데이트 해주세요~
 <table>
