@@ -1,6 +1,6 @@
 # WFT mini project
 ---
-# 캐글 컬럼 정보
+## 캐글 컬럼 정보
 - 각자 하시다가 정보가 없는 컬럼에 대해 알게되면 업데이트 해주세요~
 <table>
   <tbody>
@@ -43,7 +43,8 @@
     </tr>
   </tbody>
 </table>
-# 팀 명
+---
+## 팀 명
 <table>
   <tbody>
     <tr>
