@@ -38,7 +38,7 @@
       <td align="center">T : AWAY, B : BASE</td>
       <td align="center">Score</td>
       <td align="center">On-Base Rate</td>
-      <td align="center">Batting Average</td>
+      <td align="center">타율(Batting Average)</td>
       <td align="center">0 : Loss, 1 : Win, 0.5 : Draw</td>
     </tr>
   </tbody>
