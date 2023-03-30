@@ -43,6 +43,8 @@
     </tr>
   </tbody>
 </table>
+
+
 - 팀 명
 <table>
   <tbody>
@@ -78,4 +80,12 @@
 ---
 
 
+## 변수명
+- baseball_data : 2015 ~ 2020년도 데이터의 DataFrame
+- train_x, train_y : 훈련 데이터
+- test_x, test_y : 테스트 데이터
+
+
+## 팀원 소개
+- 추후 작성 
 
