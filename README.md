@@ -43,8 +43,7 @@
     </tr>
   </tbody>
 </table>
----
-## 팀 명
+- 팀 명
 <table>
   <tbody>
     <tr>
