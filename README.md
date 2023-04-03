@@ -11,6 +11,7 @@
       <td align="center">AB</td>
       <td align="center">RBI</td>
       <td align="center">RUN</td>
+      <td align="center">HIT</td>
       <td align="center">H2</td>
       <td align="center">H3</td>
       <td align="center">HR</td>
@@ -19,7 +20,6 @@
       <td align="center">SF</td>
       <td align="center">BB</td>
       <td align="center">HP</td>
-      <td align="center">IB</td>
       <td align="center">KK</td>
       <td align="center">GD</td>
       <td align="center">LOB</td>         
@@ -27,26 +27,26 @@
       <td align="center">OOO</td>
       <td align="center">win</td>
      <tr/>
-      <td align="center">T : AWAY, B : BASE</td>
+      <td align="center">T:AWAY, B:BASE</td>
       <td align="center">타석</td>
       <td align="center">타수</td>
       <td align="center">타점</td>
-      <td align="center">Score</td>
-      <td align="center">2타</td>
-      <td align="center">3타</td>
+      <td align="center">득점</td>
+      <td align="center"></td>
+      <td align="center">2루타</td>
+      <td align="center">3루타</td>
       <td align="center">홈런</td>
       <td align="center">도루</td>
       <td align="center">도실</td>
       <td align="center">희비</td>
       <td align="center">볼넷</td>
       <td align="center">홀드포인트</td>
-      <td align="center">고4</td>
       <td align="center">삼진</td>
       <td align="center">병살</td>
       <td align="center">잔루율</td>   
-      <td align="center">출루율(On-Base Rate)</td>
-      <td align="center">타율(Batting Average)</td>
-      <td align="center">0 : Loss, 1 : Win, 0.5 : Draw</td>
+      <td align="center">출루율</td>
+      <td align="center">타율</td>
+      <td align="center">0:패, 1:승, 0.5:무</td>
     </tr>
   </tbody>
 </table>
