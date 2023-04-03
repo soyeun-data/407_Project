@@ -85,6 +85,7 @@
 - baseball_data : 2015 ~ 2020년도 데이터의 DataFrame
 - train_x, train_y : 훈련 데이터
 - test_x, test_y : 테스트 데이터
+- pred_probs : 0 또는 1일 확률
 
 
 ## 팀원 소개
