@@ -18,6 +18,7 @@
       <td align="center">IB</td>
       <td align="center">KK</td>
       <td align="center">GD</td>
+      <td align="center">LOB</td>
       <td align="center">TB_SC</td>
       <td align="center">RUN</td>
       <td align="center">OBP</td>
@@ -36,6 +37,7 @@
       <td align="center">고4</td>
       <td align="center">삼진</td>
       <td align="center">병살</td>
+      <td align="center">잔루율</td>
       <td align="center">T : AWAY, B : BASE</td>
       <td align="center">Score</td>
       <td align="center">출루율(On-Base Rate)</td>
