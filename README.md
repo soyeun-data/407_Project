@@ -32,7 +32,7 @@
       <td align="center">타수</td>
       <td align="center">타점</td>
       <td align="center">득점</td>
-      <td align="center"></td>
+      <td align="center">안타</td>
       <td align="center">2루타</td>
       <td align="center">3루타</td>
       <td align="center">홈런</td>
