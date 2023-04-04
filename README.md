@@ -27,7 +27,7 @@
       <td align="center">OOO</td>
       <td align="center">win</td>
      <tr/>
-      <td align="center">T:AWAY, B:BASE</td>
+      <td align="center">T:AWAY, B:HOME</td>
       <td align="center">타석</td>
       <td align="center">타수</td>
       <td align="center">타점</td>
