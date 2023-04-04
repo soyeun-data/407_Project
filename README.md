@@ -94,6 +94,10 @@
 - pred_probs : 0 또는 1일 확률
 
 
+## 공통 feature
+: RUN,AB,PA,OOO,T_ID,VS_T_ID,OBP
+
+
 ## 팀원 소개
 - 추후 작성 
 
