@@ -94,7 +94,7 @@
 - pred_probs : 0 또는 1일 확률
 
 
-## 공통 feature
+## feature
 : RUN(득점),AB(타수),PA(타석),OOO(타율),T_ID(홈 팀),VS_T_ID(원정팀),OBP(출루율)
 
 
