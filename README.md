@@ -95,9 +95,9 @@
 
 
 ## 공통 feature
-: RUN,AB,PA,OOO,T_ID,VS_T_ID,OBP
+: RUN(득점),AB(타수),PA(타석),OOO(타율),T_ID(홈 팀),VS_T_ID(원정팀),OBP(출루율)
 
 
 ## 팀원 소개
-- 추후 작성 
+- 제태성, 박병준, 안윤빈, 박소연, 강혜정, 윤철식
 
